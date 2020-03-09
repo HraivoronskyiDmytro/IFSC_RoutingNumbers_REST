@@ -1,5 +1,9 @@
 # IFSC_RoutingNumbers_REST
 
+
+[![Build Status](https://travis-ci.org/HraivoronskyiDmytro/IFSC_RoutingNumbers_REST.png)](https://travis-ci.org/HraivoronskyiDmytro/IFSC_RoutingNumbers_REST)
+
+
 This is the simple test project for API testing based on Cucumber & RestAssured with responce validation based on Json Schema V4 (https://json-schema.org/).
 It consists of two feature files that represents basic test suits for two endpoints of free fintech API:
  - Razorpay's IFSC API(https://github.com/razorpay/ifsc/wiki/API) - endpoint: https://ifsc.razorpay.com/ 
