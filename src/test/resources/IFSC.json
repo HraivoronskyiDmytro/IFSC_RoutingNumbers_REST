@@ -1,0 +1,68 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "required": [
+    "IMPS",
+    "STATE",
+    "MICR",
+    "ADDRESS",
+    "RTGS",
+    "CENTRE",
+    "UPI",
+    "CITY",
+    "DISTRICT",
+    "NEFT",
+    "CONTACT",
+    "BRANCH",
+    "BANK",
+    "BANKCODE",
+    "IFSC"
+  ],
+  "properties": {
+    "IMPS": {
+      "type": "boolean"
+    },
+    "STATE": {
+      "type": "string"
+    },
+    "MICR": {
+      "type": "string"
+    },
+    "ADDRESS": {
+      "type": "string"
+    },
+    "RTGS": {
+      "type": "boolean"
+    },
+    "CENTRE": {
+      "type": "string"
+    },
+    "UPI": {
+      "type": "boolean"
+    },
+    "CITY": {
+      "type": "string"
+    },
+    "DISTRICT": {
+      "type": "string"
+    },
+    "NEFT": {
+      "type": "boolean"
+    },
+    "CONTACT": {
+      "type": "string"
+    },
+    "BRANCH": {
+      "type": "string"
+    },
+    "BANK": {
+      "type": "string"
+    },
+    "BANKCODE": {
+      "type": "string"
+    },
+    "IFSC": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "required": [
+    "code",
+    "rn",
+    "message",
+    "name"
+  ],
+  "properties": {
+    "code": {
+      "type": "integer",
+      "const": "200"
+    },
+    "rn": {
+      "type": "string"
+    },
+    "message": {
+      "type": "string",
+      "const": "OK"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}
