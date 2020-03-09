@@ -6,6 +6,8 @@ It consists of two feature files that represents basic test suits for two endpoi
  - API for ACH/NACHA Bank Routing Numbers (https://www.routingnumbers.info/api/index.html) - endpoint https://www.routingnumbers.info/api/name.json
  
  Feature files are in /src/test/resources/service/
+ 
+Scenarios basically cover the CRUD, changing in endpoint HTTPS to HTTP, invalid mandatory request's parameter, absent mandatory request's parameter.
 
 Steps are defined in: /src/test/java/service/Stepdefs.java
 
