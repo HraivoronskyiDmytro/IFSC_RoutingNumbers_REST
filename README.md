@@ -11,4 +11,6 @@ Scenarios basically cover the CRUD, changing in endpoint HTTPS to HTTP, invalid 
 
 Steps are defined in: /src/test/java/service/Stepdefs.java
 
+JAVA 8 is required for running the project.
+
 to run tests please clone the project & execute in the command promt from project root:" ./gradlew test "
