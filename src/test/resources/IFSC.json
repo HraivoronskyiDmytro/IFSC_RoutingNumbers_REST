@@ -50,7 +50,10 @@
       "type": "boolean"
     },
     "CONTACT": {
-      "type": "string"
+      "oneOf": [
+        { "type": "string" },
+        { "type": "null" }
+      ]
     },
     "BRANCH": {
       "type": "string"
