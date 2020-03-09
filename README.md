@@ -1,1 +1,12 @@
 # IFSC_RoutingNumbers_REST
+
+This is the simple test project for API testing based on Cucumber & RestAssured with responce validation based on Json Schema V4 (https://json-schema.org/)
+It consists of two feature files that represents basic test suits for two endpoints of free fintech API:
+ - Razorpay's IFSC API(https://github.com/razorpay/ifsc/wiki/API) - endpoint: https://ifsc.razorpay.com/ 
+ - API for ACH/NACHA Bank Routing Numbers (https://www.routingnumbers.info/api/index.html) - endpoint https://www.routingnumbers.info/api/name.json
+ 
+ Feature files are in /src/test/resources/service/
+
+Steps are defined in: /src/test/java/service/Stepdefs.java
+
+to run tests please clone the project & execute in the command promt from project root:" ./gradlew test "
