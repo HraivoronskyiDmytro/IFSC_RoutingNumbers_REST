@@ -1,9 +1,9 @@
 # IFSC_RoutingNumbers_REST
 
 
-[![Build Status](https://travis-ci.org/HraivoronskyiDmytro/IFSC_RoutingNumbers_REST.png)](https://travis-ci.org/HraivoronskyiDmytro/IFSC_RoutingNumbers_REST)
+Travis:[![Build Status](https://travis-ci.org/HraivoronskyiDmytro/IFSC_RoutingNumbers_REST.png)](https://travis-ci.org/HraivoronskyiDmytro/IFSC_RoutingNumbers_REST)
 
-Sempahore status: [![Build Status](https://semaphoreci.com/api/v1/hraivoronskyidmytro/ifsc_routingnumbers_rest/branches/master/shields_badge.svg)](https://semaphoreci.com/hraivoronskyidmytro/ifsc_routingnumbers_rest/)
+Semaphoreci: [![Build Status](https://semaphoreci.com/api/v1/hraivoronskyidmytro/ifsc_routingnumbers_rest/branches/master/shields_badge.svg)](https://semaphoreci.com/hraivoronskyidmytro/ifsc_routingnumbers_rest/)
 
 This is the simple test project for API testing based on Cucumber & RestAssured with responce validation based on Json Schema V4 (https://json-schema.org/).
 It consists of two feature files that represents basic test suits for two endpoints of free fintech API:
