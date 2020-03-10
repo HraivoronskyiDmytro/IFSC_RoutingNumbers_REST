@@ -1,5 +1,6 @@
 # IFSC_RoutingNumbers_REST
 
+[![CircleCI](https://circleci.com/gh/HraivoronskyiDmytro/IFSC_RoutingNumbers_REST.svg?style=svg)](https://circleci.com/gh/HraivoronskyiDmytro/IFSC_RoutingNumbers_REST)
 
 Travis:[![Build Status](https://travis-ci.org/HraivoronskyiDmytro/IFSC_RoutingNumbers_REST.png)](https://travis-ci.org/HraivoronskyiDmytro/IFSC_RoutingNumbers_REST)
 
